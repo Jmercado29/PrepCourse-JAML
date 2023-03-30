@@ -1,2 +1,1 @@
-# PrepCourse-JAML
-Este es un repositorio de prueba para el PrepCourse de Henry
+este es un proyecto de como crear un repositorio y clonarlo desde github a mi pc
